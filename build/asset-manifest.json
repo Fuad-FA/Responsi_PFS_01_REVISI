@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//github.com/Fuad-FA/Responsi_PFS_1/static/css/main.6b484a69.css",
+    "main.js": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/main.ceb471c2.js",
+    "static/js/239.226da675.chunk.js": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/239.226da675.chunk.js",
+    "static/js/213.4e80d702.chunk.js": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/213.4e80d702.chunk.js",
+    "static/js/732.c3da508a.chunk.js": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/732.c3da508a.chunk.js",
+    "static/js/453.aac68abc.chunk.js": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/453.aac68abc.chunk.js",
+    "static/media/profil.jpg": "//github.com/Fuad-FA/Responsi_PFS_1/static/media/profil.db73345a7e277771f93d.jpg",
+    "static/media/profile.jpg": "//github.com/Fuad-FA/Responsi_PFS_1/static/media/profile.2401a5382aa3c9c30575.jpg",
+    "index.html": "//github.com/Fuad-FA/Responsi_PFS_1/index.html",
+    "main.6b484a69.css.map": "//github.com/Fuad-FA/Responsi_PFS_1/static/css/main.6b484a69.css.map",
+    "main.ceb471c2.js.map": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/main.ceb471c2.js.map",
+    "239.226da675.chunk.js.map": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/239.226da675.chunk.js.map",
+    "213.4e80d702.chunk.js.map": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/213.4e80d702.chunk.js.map",
+    "732.c3da508a.chunk.js.map": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/732.c3da508a.chunk.js.map",
+    "453.aac68abc.chunk.js.map": "//github.com/Fuad-FA/Responsi_PFS_1/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b484a69.css",
+    "static/js/main.ceb471c2.js"
+  ]
+}
