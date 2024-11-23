@@ -1,0 +1,59 @@
+/* src/components/About.css */
+
+.about-section {
+    padding: 50px 20px;
+    background-color: #1616e6;
+    border-radius: 10px;
+    margin: 40px 0;
+  }
+  
+  .about-section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .profile-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    border-radius: 5%;
+    margin-bottom: 20px;
+  }
+  
+  .about-content h3 {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+  
+  .profession {
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 15px;
+  }
+  
+  .about-content p {
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1.6;
+  }
+  
+  .personal-info {
+    list-style: none;
+    padding: 0;
+    font-size: 16px;
+    color: #ffffff;
+  }
+  
+  .personal-info li {
+    margin: 5px 0;
+  }
+  

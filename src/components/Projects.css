@@ -1,0 +1,19 @@
+/* src/components/Projects.css */
+.projects-section {
+    padding: 50px 20px;
+  }
+  
+  .card {
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .project-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  

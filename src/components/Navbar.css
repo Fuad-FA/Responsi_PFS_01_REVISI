@@ -1,0 +1,15 @@
+/* src/components/Navbar.css */
+
+.navbar {
+    box-shadow: 0 4px 8px rgba(26, 15, 15, 0.1);
+  }
+  
+  .navbar .nav-link {
+    color: #0024f3;
+    transition: color 0.3s;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #f10c0c;
+  }
+  

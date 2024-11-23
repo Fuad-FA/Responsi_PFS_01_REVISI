@@ -1,0 +1,127 @@
+/* src/components/Contact.css */
+.contact-section {
+  padding: 2rem;
+  text-align: center;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.contact-form button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #0056b3;
+}
+
+.whatsapp-container {
+  margin-top: 1.5rem;
+}
+
+.whatsapp-link {
+  display: inline-flex;
+  align-items: center;
+  color: #25d366;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.whatsapp-link:hover {
+  color: #128c7e;
+}
+
+.whatsapp-icon {
+  margin-right: 0.5rem;
+  font-size: 2rem;
+}
+
+/* Styling for displaying the submitted messages */
+.submitted-contacts {
+  margin-top: 2rem;
+  font-size: 1rem;
+}
+
+.contact-messages h3 {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.contact-messages ul {
+  list-style: none;
+  padding: 0;
+}
+
+.message-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.message-item strong {
+  font-weight: bold;
+}
+
+/* src/components/Contact.css */
+
+/* Styling untuk tombol hapus (ikon tempat sampah) */
+.delete-btn {
+  background: none;
+  border: none;
+  color: red; /* Warna merah untuk tombol */
+  font-size: 1.5rem; /* Pastikan ukuran font cukup besar */
+  cursor: pointer;
+  margin-left: 10px;
+  display: inline-block; /* Pastikan tombol ada dalam layout */
+  z-index: 10; /* Pastikan tombol berada di atas elemen lain */
+}
+
+.delete-btn:hover {
+  color: #b50f0f; /* Warna saat hover */
+}
+
+/* Memastikan tombol delete berada di atas elemen lainnya */
+.delete-btn {
+  z-index: 10;
+}
+
+.message-item {
+  display: flex;
+  justify-content: space-between; /* Memastikan tombol berada di sebelah kanan */
+  align-items: center;
+  margin: 10px 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.message-item strong {
+  font-weight: bold;
+}
+
+
+/* Styling sementara untuk memastikan tombol terlihat */
+.delete-btn {
+  background-color: rgba(250, 0, 0, 0.1); /* Background sementara untuk visibilitas */
+  color: red;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: 10px;
+}
